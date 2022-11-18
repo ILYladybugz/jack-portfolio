@@ -13,7 +13,7 @@
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://ILYladybugz.github.io/sherie-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ilyladybugz.github.io/sherie-portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 

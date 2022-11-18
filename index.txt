@@ -1,8 +1,8 @@
-Jack - personal portfolio
+Sherie - personal portfolio
 
-# HEDER
+# HEADER
 
-Jack.
+Sherie
 
 En
 Ar
@@ -13,30 +13,33 @@ title = Change Theme
 aria-label = Toggle Menu
 title = Toggle Menu
 
-Home.
-About.
-Skills.
-Portfolio.
-Contact.
+Home
+About
+Skills
+Portfolio
+Contact
 
 
 
 # HERO
 
-alt = A man in a blue shirt with a happy expression
+alt = Sherie in a red jacket smiling
 
-We Design & Build Creative Products
+Medicare Analyst 
 
 Get in touch
 
-<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-facebook">https://www.facebook.com/profile.php?id=100077199413599</ion-icon>
 Facebook
 
-<ion-icon name="logo-twitter"></ion-icon>
-Twitter
-
-<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-linkedin">https://www.linkedin.com/in/sherie-kimble-4309664/</ion-icon>
 Linkedin
+
+<ion-icon name="logo-tableau">ttps://public.tableau.com/app/profile/sherie.kimble</ion-icon>
+tableau
+
+<ion-icon name="logo-kaggle">https://www.kaggle.com/sheriekimble</ion-icon>
+Kaggle
 
 Scroll
 
@@ -46,36 +49,29 @@ Scroll
 
 alt = Badge icon
 
-12+
+8+
 Years of Experience
 
 <ion-icon name="chevron-forward-outline"></ion-icon>
 
 alt = Checkmark icon
 
-230+
-Completed Projects
-
-alt = Peoples rating icon
-
-95+
-Happy Clients
-
 
 
 # ABOUT
 
-alt = A man in a alice blue shirt with a thinking expression
+alt = Sherie is smiling at you
 
 About me
 
-Need a Creative Product? I can Help You!
+Need a great hire? I can Help You!
 
-Hi! I’m Jack Reacher, and I’m a developer who has passion for building clean web applications with intuitive functionalities. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+ Hi! I’m Sherie Kimble. I am currently a Medicare analyist for a software company. I work from home on the beautiful Oregon coast.
+I like to solve puzzles and learn new things. I have a web development degree which has allowed me to play in a lot of different sandboxes.
+Most recently, I completed a Google Data Analyitics course which helped me brush up on my skills.
 
 Hire me
 
-Download cv
 
 
 
@@ -83,9 +79,12 @@ Download cv
 
 My skills
 
-What My Programming Skills Included?
+What do I do as a Medicare Analyst?
 
-I develop simple, intuitive and responsive user interface that helps users get things done with less effort and time with those technologies.
+I clean data scraped from the web and do quality checks of the loaded data. I do some data entry.
+I develop algorithms with working examples in Excel based on my research into government policy on ever changing payment methodologies. I investigate variances, document findings and write reports
+I collaborate with my team to identify and resolve payment issues for hospitals in their predictive pricing and modeling needs for revenue recovery. 
+
 
 Skills
 Tools
@@ -99,48 +98,26 @@ alt = CSS3 logo
 JavaScript
 alt = JavaScript logo
 
-TypeScript
-alt = TypeScript logo
+Python
+alt = Python logo
 
-jQuery
-alt = jQuery logo
+SQL
+alt = SQL logo
 
-Bootstrap
-alt = Bootstrap logo
+Perl
+alt = Perl logo
 
-Angular
-alt = Angular logo
+R
+alt = R logo
 
-React
-alt = React logo
+Java
+alt = Java logo
 
-Vue
-alt = Vue logo
-
-Firebase
-alt = Firebase logo
-
-PugJs
-alt = PugJs logo
-
-SASS
-alt = SASS logo
-
-
-Ajax
-alt = Ajax logo
-
-Gulp
-alt = Gulp logo
-
-Webpack
-alt = Webpack logo
+C++
+alt = C++ logo
 
 Git
 alt = Git logo
-
-Npm
-alt = Npm logo
 
 Command Line
 alt = Command Line logo
@@ -148,54 +125,77 @@ alt = Command Line logo
 VS Code
 alt = VS Code logo
 
-Trello
-alt = Trello logo
+Microsoft Project
+alt = MMicrosoft Project logo
 
-ClickUp
-alt = ClickUp logo
+SharePoint
+alt = SharePoint logo
 
-Slack
-alt = Slack logo
+InDesign
+alt = InDesign logo
 
 Photoshop
 alt = Photoshop logo
 
-Adobe XD
-alt = Adobe XD logo
+Publisher
+alt = Publisher logo
+
+PowerPoint
+alt = PowerPoint logo
+
+Excel
+alt = Excel logo
+
+Word
+alt = Word logo
+
+Outlook
+alt = Outlook logo
+
+Access
+alt = Access logo
+
+OneNote
+alt = One Note logo
 
 
-
-# WOKRS
+# WORKS
 
 My Works
 
-See My Works Which Will Amaze You!
+A peek at some of my projects
 
-We develop the best quality website that serves for the long-term. Well-documented, clean, easy and elegant interface helps any non-technical clients.
+Click on the icons to see the reveal
 
-alt = A macintosh on a yellow background.
-Lorem Ipsum Dolor 01
-April 2022
+alt = A tableau viz
+A project in tableau
+September 2022
 
-alt = On a Blue background, a Wacom and a mouse.
-Lorem Ipsum Dolor 02
+alt = BigQuery SQL script
+Working with SQL
+November 2022
 
-alt = A Cassette tape on a mellow apricot background.
-Lorem Ipsum Dolor 03
+alt = A Presentation of Hospital ratings accross the USA.
+An Analytic Project
+November 2022
 
-alt = Blue digital watch on a dark liver background.
-Lorem Ipsum Dolor 04
+alt = Flowers on a light green background PowerPoint presentation
+Some of my photograpy
+August 2022
 
-alt = On a dark liver background, Airport luggage car carrying a luggage.
-Lorem Ipsum Dolor 05
+alt = Google Certification Award.
+Data Analyist Certificate
+November 2022
 
-alt = On a yellow background, a digital watch and a glass.
-Lorem Ipsum Dolor 06
+alt = Screen shot of code in Visual Studio
+Some code I can share
+November 2022
 
-alt = A fujifilm instant camera on a dark electric blue background.
-Lorem Ipsum Dolor 07
+alt = A gallery wall
+Some work from years past
+April 2010
 
-Load more work
+Stay tuned as I add more projects
 
 
 
@@ -203,28 +203,29 @@ Load more work
 
 Contact
 
-Have You Any Project? Please Drop a Message
+Have need of a good hire? Please Drop a Message
 
-Get in touch and let me know how i can help. Fill out the form and i’ll be in touch as soon as possible.
+Get in touch and let me know how I can fit in with your company. Fill out the form and I’ll be in touch as soon as possible.
 
 <ion-icon name="location-outline"></ion-icon>
 Address:
-941 Saqrqorish Road, alandalos, grnata, wa 47122-4194
+1221 SW 63rd Street, Lincoln City, OR 97367
 
 <ion-icon name="call-outline"></ion-icon>
 Phone:
-(01) 234 567 789
-(09) 765 432 200
+(01) 541 480 2495
 
 <ion-icon name="mail-outline"></ion-icon>
 Email:
-info@jack.com
-support@jack.com
+fromaladybug@gmail.com
+
 
 <ion-icon name="logo-facebook"></ion-icon>
-<ion-icon name="logo-twitter"></ion-icon>
-<ion-icon name="logo-linkedin"></ion-icon>
-<ion-icon name="logo-youtube"></ion-icon>
+<ion-icon name="logo-Linkedin"></ion-icon>
+<ion-icon name="logo-tableau"></ion-icon>
+<ion-icon name="logo-kaggle"></ion-icon>
+
+
 
 Name
 <ion-icon name="person-circle"></ion-icon>
@@ -248,9 +249,9 @@ Send
 
 # FOOTER
 
-Jack.
+Sherie
 
-&copy; 2022 codewithsadee. All rights reserved
+&copy; 2022 codewithsadee. Copied with permission. All rights reserved.
 
 
 

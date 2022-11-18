@@ -1,11 +1,9 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/jack-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/jack-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/jack-portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/DdlVKS7MROY?style=social)](https://youtu.be/DdlVKS7MROY)
-
+  ![GitHub repo size](https://img.shields.io/github/repo-size/ILYladybugz/sherie-portfolio)
+  ![GitHub stars](https://img.shields.io/github/stars/ILYladybugz/sherie-portfolio?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ILYladybugz/sherie-portfolio?style=social)
+ 
   <br />
   <br />
   
@@ -15,7 +13,7 @@
 
   This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://ILYladybugz/sherie-portfolio/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -38,18 +36,18 @@ To run **sherie-portfolio** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/jack-portfolio.git
+sudo git clone https://github.com/ILYladybugz/sherie-portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/jack-portfolio.git
+git clone https://github.com//ILYladybugz/sherie-portfolio.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/sherie-kimble-4309664/).
 
 ### License
 
